@@ -8,7 +8,7 @@
 
 Plot Summary
 
-'Inception follows Dom Cobb, a skilled thief who steals secrets from within the subconscious. Given a chance at redemption, Cobb must perform inception—implanting an idea into someone’s mind. But as he and his team delve deeper into layers of dreams, reality and fantasy blur, creating intense tension and breathtaking visuals.'
+`Inception follows Dom Cobb, a skilled thief who steals secrets from within the subconscious. Given a chance at redemption, Cobb must perform inception—implanting an idea into someone’s mind. But as he and his team delve deeper into layers of dreams, reality and fantasy blur, creating intense tension and breathtaking visuals.`
 
 Highlights
 
@@ -36,7 +36,7 @@ Memorable Scenes
 
 Plot Summary
 
--The film picks up immediately after Chapter 2. John Wick (Keanu Reeves) is on the run after being declared excommunicado by the High Table. With a $14 million bounty on his head, he faces relentless assassins, former allies, and even the deadly enforcers of the High Table as he fights his way out of New York City.
+`The film picks up immediately after Chapter 2. John Wick (Keanu Reeves) is on the run after being declared excommunicado by the High Table. With a $14 million bounty on his head, he faces relentless assassins, former allies, and even the deadly enforcers of the High Table as he fights his way out of New York City.`
 
 Highlights
 

@@ -16,9 +16,11 @@ The film's stunning visuals—from rotating hallways to collapsing dreamscapes�
 Memorable Scenes
 >1.The Hallway Fight Scene: Cobb’s teammate Arthur (Joseph Gordon-Levitt) fights in a rotating hallway, showcasing a jaw-dropping action sequence.
 >2.Limbo City: Cobb and Ariadne (Elliot Page) explore a crumbling, dreamlike city in limbo, representing the consequences of losing oneself in dreams.
+
 ---
 
-##John Wick: Chapter 3  Parabellum
+##John Wick Chapter 3 Parabellum
+
 **Genre: Action, Thriller**
 **Director: Chad Stahelski**
 **Release Date: 2019**

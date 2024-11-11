@@ -1,10 +1,10 @@
-#**Inception**
+# **Inception**
 
--**Genre: Sci-Fi, Action, Thriller**
--**Director: Christopher Nolan**
--**Release Date: 2010**
+- **Genre: Sci-Fi, Action, Thriller**
+- **Director: Christopher Nolan**
+- **Release Date: 2010**
 
->Quote: *"Dreams feel real while we’re in them. It’s only when we wake up that we realize something was actually strange."* This line by Dom Cobb (Leonardo DiCaprio) encapsulates the mind-bending, dreamlike essence of Inception.
+> Quote: *"Dreams feel real while we’re in them. It’s only when we wake up that we realize something was actually strange."* This line by Dom Cobb (Leonardo DiCaprio) encapsulates the mind-bending, dreamlike essence of Inception.
 
 Plot Summary
 
@@ -12,10 +12,10 @@ Plot Summary
 
 Highlights
 
--Complex Narrative Structure
+- Complex Narrative Structure
 Inception is known for its multi-layered dream structure, which requires viewers to stay engaged and piece together the story.
 
--Visual Mastery
+- Visual Mastery
 The film's stunning visuals—from rotating hallways to collapsing dreamscapes—add to its surreal, immersive atmosphere.
 
 Memorable Scenes
@@ -26,13 +26,13 @@ Memorable Scenes
 
 ---
 
-##**John Wick Chapter 3 Parabellum**
+## **John Wick Chapter 3 Parabellum**
 
--**Genre: Action, Thriller**
--**Director: Chad Stahelski**
--**Release Date: 2019**
+- **Genre: Action, Thriller**
+- **Director: Chad Stahelski**
+- **Release Date: 2019**
 
->Quote: *"Si vis pacem, para bellum."*Translation: *"If you want peace, prepare for war."*This quote captures the relentless tone of John Wick: Chapter 3.
+> Quote: *"Si vis pacem, para bellum."*Translation: *"If you want peace, prepare for war."*This quote captures the relentless tone of John Wick: Chapter 3.
 
 Plot Summary
 
@@ -40,6 +40,6 @@ Plot Summary
 
 Highlights
 
--Stylized Fight Sequences:Parabellum delivers choreographed, intense action scenes that blend gunplay with martial arts.
+- Stylized Fight Sequences:Parabellum delivers choreographed, intense action scenes that blend gunplay with martial arts.
 
--World-Building:We explore the fascinating underworld society, including the Continental hotels and High Table laws.
+- World-Building:We explore the fascinating underworld society, including the Continental hotels and High Table laws.

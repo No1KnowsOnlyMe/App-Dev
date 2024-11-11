@@ -1,7 +1,14 @@
 #movies
+
+
+
 ##Inception
+
+
 **Genre: Sci-Fi, Action, Thriller**
+
 **Director: Christopher Nolan**
+
 **Release Date: 2010**
 >Quote: *"Dreams feel real while we’re in them. It’s only when we wake up that we realize something was actually strange."* This line by Dom Cobb (Leonardo DiCaprio) encapsulates the mind-bending, dreamlike essence of Inception.
 
@@ -23,7 +30,9 @@ Memorable Scenes
 ###John Wick Chapter 3 Parabellum
 
 **Genre: Action, Thriller**
+
 **Director: Chad Stahelski**
+
 **Release Date: 2019**
 
 >Quote: *"Si vis pacem, para bellum."*Translation: *"If you want peace, prepare for war."*This quote captures the relentless tone of John Wick: Chapter 3.

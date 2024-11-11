@@ -1,4 +1,4 @@
-**Inception**
+#**Inception**
 
 **Genre: Sci-Fi, Action, Thriller**
 **Director: Christopher Nolan**
@@ -18,7 +18,7 @@ Inception is known for its multi-layered dream structure, which requires viewers
 -Visual Mastery
 The film's stunning visuals—from rotating hallways to collapsing dreamscapes—add to its surreal, immersive atmosphere.
 
-#Memorable Scenes
+Memorable Scenes
 
 1.The Hallway Fight Scene: Cobb’s teammate Arthur (Joseph Gordon-Levitt) fights in a rotating hallway, showcasing a jaw-dropping action sequence.
 
@@ -26,7 +26,7 @@ The film's stunning visuals—from rotating hallways to collapsing dreamscapes�
 
 ---
 
-**John Wick Chapter 3 Parabellum**
+##**John Wick Chapter 3 Parabellum**
 
 **Genre: Action, Thriller**
 **Director: Chad Stahelski**

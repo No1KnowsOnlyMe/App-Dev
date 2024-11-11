@@ -1,4 +1,5 @@
-# Inception
+#movies
+##Inception
 **Genre: Sci-Fi, Action, Thriller**
 **Director: Christopher Nolan**
 **Release Date: 2010**
@@ -19,7 +20,7 @@ Memorable Scenes
 
 ---
 
-##John Wick Chapter 3 Parabellum
+###John Wick Chapter 3 Parabellum
 
 **Genre: Action, Thriller**
 **Director: Chad Stahelski**

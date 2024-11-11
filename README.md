@@ -2,7 +2,7 @@
 
 
 
-##Inception
+#Inception
 
 
 **Genre: Sci-Fi, Action, Thriller**
@@ -27,7 +27,7 @@ Memorable Scenes
 
 ---
 
-###John Wick Chapter 3 Parabellum
+#John Wick Chapter 3 Parabellum
 
 **Genre: Action, Thriller**
 
